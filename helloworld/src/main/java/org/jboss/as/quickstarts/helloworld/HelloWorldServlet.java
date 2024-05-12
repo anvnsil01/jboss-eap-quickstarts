@@ -35,7 +35,7 @@ import java.io.PrintWriter;
  *
  */
 @SuppressWarnings("serial")
-@WebServlet("/HelloWorld")
+@WebServlet("/HelloWorld")rrr
 public class HelloWorldServlet extends HttpServlet {
 
     static String PAGE_HEADER = "<html><head><title>helloworld</title></head><body>";
